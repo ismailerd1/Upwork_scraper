@@ -48,13 +48,15 @@ This project is a Python-based web scraper that searches for job postings on Upw
 
     After setting up the necessary configurations (email details), you can run the scraper script:
 
+## Contributing
+If you would like to contribute, please submit a pull request or open an issue. I welcome all feedback!
 
 
-
+## License
+This project is licensed under the MIT License. For more information, see the LICENSE file.
 
 ### CONTACT
+If you have any questions or need assistance, please feel free to reach out.
+my e-mail: ismailerdogan2003@gmail.com
 
-I'm new here. I would be happy for you to share your thoughts with me and if there are any mistakes, omissions or problems.
-
-e-mail: ismailerdogan2003@gmail.com
 
